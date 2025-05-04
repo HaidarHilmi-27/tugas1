@@ -9,7 +9,7 @@
                 ?>
                 <!-- Page content-->
                 <div class="container-fluid">
-                    <h1 class="mt-4">selamat datang</h1>
+                    <h1 class="mt-4">selamat datang di Puskesmas Depok</h1>
                 </div>
 </div>
 
